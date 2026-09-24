@@ -12,5 +12,5 @@ This game is created as a teaching aid.
 - **Mystery Gate:** choose up to two input states to identify a hidden gate.
 - Turn on **Breakout-room prompts** for a gate chooser, predictor and explainer to rotate roles.
 
-The site does not collect students' names or results. A challenge code recreates the mission sequence without storeing answers or scores.
+The site does not collect students' names or results. A challenge code recreates the mission sequence without storing answers or scores.
 
