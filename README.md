@@ -14,4 +14,3 @@ This game is created as a teaching aid.
 
 The site does not collect students' names or results. A challenge code recreates the mission sequence without storeing answers or scores.
 
-Official setup instructions: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
